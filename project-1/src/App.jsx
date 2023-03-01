@@ -11,7 +11,7 @@ function App() {
     <div className='content-app'>
       <Router>
         <Routes>
-          <Route index path='/' element={<Home />} />
+          <Route index path='/' element={<Coracao />} />
           <Route path='/coracao' element={<Coracao />} />
         </Routes>
       </Router>
