@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 12px 20px;
+    background-color: rgb(34, 34, 34);
+    color: #fff;
+}
+
+div i {
+    font-size: 23px;
+}
+
+.header h1 {
+    font-size: 1rem;
+}
+
+.header a {
+    color: #fff;
+}
