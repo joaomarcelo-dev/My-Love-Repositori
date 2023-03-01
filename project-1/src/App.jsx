@@ -1,7 +1,7 @@
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './view/Home';
-import Coracao from './view/Coracao';
+import Home from './view/Home/index';
+import Coracao from './view/Coracao/index';
 
 function App() {
 
