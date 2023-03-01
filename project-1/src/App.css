@@ -25,4 +25,10 @@ main {
 .text-one p {
   color: #fff;
   font-size: 1.1rem;
+  margin-bottom: 10px;
+  
+}
+
+a {
+  color: #7a3071;
 }
